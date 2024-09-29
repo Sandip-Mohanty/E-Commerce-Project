@@ -5,6 +5,7 @@
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [Key Finding](#key-finding)
+- [Note](#note)
 
 ## Project Overview
 The E-commerce Sales Analysis project aims to explore and analyze an e-commerce company's sales data, focusing on identifying key trends, patterns, and insights related to customer behavior, sales performance, and product performance. This project involves the use of data wrangling, data visualization, and analytical techniques to generate meaningful business insights.
@@ -55,3 +56,6 @@ The E-commerce Sales Analysis project aims to explore and analyze an e-commerce 
 ### Product Insights:
   - **Price-Purchase Correlation:** A correlation analysis between product prices and the number of times products were purchased revealed a relationship between mid-range 
     priced products and higher purchase frequency, providing data-driven insights for pricing strategies.
+
+## Note
+Got it! I’ll keep that in mind: ensuring the dataset is present in SQL before implementing any code.
